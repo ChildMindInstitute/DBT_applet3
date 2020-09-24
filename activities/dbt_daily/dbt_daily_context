@@ -1,0 +1,74 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "dbt_daily": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet2/master/activities/dbt_daily/items/",
+        "emotions_instructions": {
+            "@id": "dbt_daily:emotions_instructions",
+            "@type": "@id"
+        },
+        "happiness": {
+            "@id": "dbt_daily:happiness",
+            "@type": "@id"
+        },
+        "sadness": {
+            "@id": "dbt_daily:sadness",
+            "@type": "@id"
+        },
+        "anxiety_fear": {
+            "@id": "dbt_daily:anxiety_fear",
+            "@type": "@id"
+        },
+        "anger": {
+            "@id": "dbt_daily:anger",
+            "@type": "@id"
+        },
+        "shame_guilt": {
+            "@id": "dbt_daily:shame_guilt",
+            "@type": "@id"
+        },
+        "target_behaviors_instructions": {
+            "@id": "dbt_daily:target_behaviors_instructions",
+            "@type": "@id"
+        },
+        "suicide_urges": {
+            "@id": "dbt_daily:suicide_urges",
+            "@type": "@id"
+        },
+        "suicide_act": {
+            "@id": "dbt_daily:suicide_act",
+            "@type": "@id"
+        },
+        "negative_thoughts": {
+            "@id": "dbt_daily:negative_thoughts",
+            "@type": "@id"
+        },
+        "panic_attack": {
+            "@id": "dbt_daily:panic_attack",
+            "@type": "@id"
+        },
+        "skip_class_urges": {
+            "@id": "dbt_daily:skip_class_urges",
+            "@type": "@id"
+        },
+        "skip_class_act": {
+            "@id": "dbt_daily:skip_class_act",
+            "@type": "@id"
+        },
+        "mindfulness_skills": {
+            "@id": "dbt_daily:mindfulness_skills",
+            "@type": "@id"
+        },
+        "interpersonal_skills": {
+            "@id": "dbt_daily:interpersonal_skills",
+            "@type": "@id"
+        },
+        "emotion_regulation": {
+            "@id": "dbt_daily:emotion_regulation",
+            "@type": "@id"
+        },
+        "distress_tolerance": {
+            "@id": "dbt_daily:distress_tolerance",
+            "@type": "@id"
+        }
+    }
+}
