@@ -3,11 +3,11 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "@id": "anger",
+    "@id": "alcohol_urges",
     "ui": {
         "inputType": "slider"
     },
-    "question": "\r\n\r\n![anger.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet3/master/images/png/anger.png =250x250)\r\n\r\nAnger",
+    "question": "\r\n\r\n![behaviorUrges.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet3/master/images/png/behaviorUrges.png =250x250)\r\n\r\nHow intense were your urges to **use susbstances (alcohol)** today?",
     "responseOptions": {
         "choices": [
             {

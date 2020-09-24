@@ -3,14 +3,14 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "@id": "panic_attack",
+    "@id": "conflict_parents",
     "ui": {
         "inputType": "radio",
         "allow": [
             "autoAdvance"
         ]
     },
-    "question": "Did you have a **panic attack** today?",
+    "question": "\r\n\r\n![conflict.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet3/master/images/png/conflict.png =250x250)\r\n\r\nDid you have **conflict with your parents** today?",
     "responseOptions": {
         "choices": [
             {

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "@id": "skip_class_act",
+    "@id": "purging_act",
     "ui": {
         "inputType": "radio",
         "allow": [
